@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\AnkurNigam\AndroidStudioProjects\ColorPicker\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\jars\libs\internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d">
+        <dex dex="C:\Users\AnkurNigam\AndroidStudioProjects\ColorPicker\app\build\intermediates\pre-dexed\debug\internal_impl-20.0.0-c6d9bb8a8dfeec7d7773a3f92be5c8db4e094adc.jar" />
+    </item>
+    <item
+        jar="C:\Users\AnkurNigam\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\20.0.0\support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa">
+        <dex dex="C:\Users\AnkurNigam\AndroidStudioProjects\ColorPicker\app\build\intermediates\pre-dexed\debug\support-annotations-20.0.0-82a4f346ef05285c6d8242967d74764ebb9d7b7b.jar" />
+    </item>
+    <item
+        jar="C:\Users\AnkurNigam\AndroidStudioProjects\ColorPicker\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0">
+        <dex dex="C:\Users\AnkurNigam\AndroidStudioProjects\ColorPicker\app\build\intermediates\pre-dexed\debug\classes-93e6725014803450c5c2f39a557384c375eef6a5.jar" />
+    </item>
+    <item
+        jar="C:\Users\AnkurNigam\AndroidStudioProjects\ColorPicker\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\20.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f21927d22fe31889ecce94dd697a2e75b137e0ef">
+        <dex dex="C:\Users\AnkurNigam\AndroidStudioProjects\ColorPicker\app\build\intermediates\pre-dexed\debug\classes-aa1d4d761be07adbf56fc822e258440dc81ecf84.jar" />
+    </item>
+
+</items>

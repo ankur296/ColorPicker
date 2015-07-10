@@ -1,0 +1,8 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.colorpicker.MainActivity" >
+
+
+</menu>
+<!-- From: file:/C:/Users/AnkurNigam/AndroidStudioProjects/ColorPicker/app/src/main/res/menu/main.xml -->
