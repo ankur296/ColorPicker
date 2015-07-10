@@ -8,7 +8,7 @@ import android.widget.TextView;
 public class CustomTextView
   extends TextView
 {
-  public static Typeface FONT_NAME;
+  public static Typeface FONT_NAME; //Ankur
   
   public CustomTextView(Context paramContext)
   {
