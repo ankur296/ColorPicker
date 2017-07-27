@@ -1,5 +1,0 @@
-test merge
-test origin
-test pull
-test fetch
-
